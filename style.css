@@ -1,0 +1,49 @@
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'><head><meta charset='utf-8'><title>Text To Word</title></head><body><p>* {</p>
+<p>&nbsp; &nbsp; margin: 0;</p>
+<p>&nbsp; &nbsp; padding: 0;</p>
+<p>&nbsp; &nbsp; box-sizing: border-box;</p>
+<p>&nbsp; &nbsp; font-family: Arial, Helvetica, sans-serif;</p>
+<p>}</p>
+<p>&nbsp;</p>
+<p>body {</p>
+<p>&nbsp; &nbsp; background: linear-gradient(135deg, #5865F2, #404EED);</p>
+<p>&nbsp; &nbsp; height: 100vh;</p>
+<p>&nbsp; &nbsp; display: flex;</p>
+<p>&nbsp; &nbsp; justify-content: center;</p>
+<p>&nbsp; &nbsp; align-items: center;</p>
+<p>}</p>
+<p>&nbsp;</p>
+<p>.container {</p>
+<p>&nbsp; &nbsp; background: white;</p>
+<p>&nbsp; &nbsp; padding: 40px;</p>
+<p>&nbsp; &nbsp; border-radius: 12px;</p>
+<p>&nbsp; &nbsp; text-align: center;</p>
+<p>&nbsp; &nbsp; width: 90%;</p>
+<p>&nbsp; &nbsp; max-width: 400px;</p>
+<p>}</p>
+<p>&nbsp;</p>
+<p>.container h1 {</p>
+<p>&nbsp; &nbsp; color: #5865F2;</p>
+<p>&nbsp; &nbsp; margin-bottom: 15px;</p>
+<p>}</p>
+<p>&nbsp;</p>
+<p>.container p {</p>
+<p>&nbsp; &nbsp; color: #555;</p>
+<p>&nbsp; &nbsp; margin-bottom: 25px;</p>
+<p>}</p>
+<p>&nbsp;</p>
+<p>.join-btn {</p>
+<p>&nbsp; &nbsp; display: inline-block;</p>
+<p>&nbsp; &nbsp; text-decoration: none;</p>
+<p>&nbsp; &nbsp; background: #5865F2;</p>
+<p>&nbsp; &nbsp; color: white;</p>
+<p>&nbsp; &nbsp; padding: 14px 30px;</p>
+<p>&nbsp; &nbsp; border-radius: 30px;</p>
+<p>&nbsp; &nbsp; font-size: 18px;</p>
+<p>&nbsp; &nbsp; transition: 0.3s ease;</p>
+<p>}</p>
+<p>&nbsp;</p>
+<p>.join-btn:hover {</p>
+<p>&nbsp; &nbsp; background: #404EED;</p>
+<p>&nbsp; &nbsp; transform: scale(1.05);</p>
+<p>}</p></body></html>
