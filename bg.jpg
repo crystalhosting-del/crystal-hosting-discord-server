@@ -1,0 +1,59 @@
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'><head><meta charset='utf-8'><title>Text To Word</title></head><body><div class="container">
+<h1>&lt;!DOCTYPE html&gt;</h1>
+<p>&lt;html lang="en"&gt;</p>
+<p>&lt;head&gt;</p>
+<p>&nbsp; &lt;meta charset="UTF-8"&gt;</p>
+<p>&nbsp; &lt;title&gt;Crystal Hosting&lt;/title&gt;</p>
+<p>&nbsp;</p>
+<p>&nbsp; &lt;style&gt;</p>
+<p>&nbsp; &nbsp; body {</p>
+<p>&nbsp; &nbsp; &nbsp; margin: 0;</p>
+<p>&nbsp; &nbsp; &nbsp; padding: 0;</p>
+<p>&nbsp; &nbsp; &nbsp; height: 100vh;</p>
+<p>&nbsp; &nbsp; &nbsp; background-image: url("bg.jpg");</p>
+<p>&nbsp; &nbsp; &nbsp; background-size: cover;</p>
+<p>&nbsp; &nbsp; &nbsp; background-position: center;</p>
+<p>&nbsp; &nbsp; &nbsp; background-repeat: no-repeat;</p>
+<p>&nbsp; &nbsp; &nbsp; display: flex;</p>
+<p>&nbsp; &nbsp; &nbsp; align-items: center;</p>
+<p>&nbsp; &nbsp; &nbsp; justify-content: center;</p>
+<p>&nbsp; &nbsp; &nbsp; font-family: Arial, sans-serif;</p>
+<p>&nbsp; &nbsp; }</p>
+<p>&nbsp;</p>
+<p>&nbsp; &nbsp; .box {</p>
+<p>&nbsp; &nbsp; &nbsp; background: rgba(0, 0, 0, 0.6);</p>
+<p>&nbsp; &nbsp; &nbsp; padding: 25px;</p>
+<p>&nbsp; &nbsp; &nbsp; border-radius: 15px;</p>
+<p>&nbsp; &nbsp; &nbsp; text-align: center;</p>
+<p>&nbsp; &nbsp; &nbsp; color: white;</p>
+<p>&nbsp; &nbsp; &nbsp; max-width: 90%;</p>
+<p>&nbsp; &nbsp; }</p>
+<p>&nbsp;</p>
+<p>&nbsp; &nbsp; a {</p>
+<p>&nbsp; &nbsp; &nbsp; display: inline-block;</p>
+<p>&nbsp; &nbsp; &nbsp; margin-top: 15px;</p>
+<p>&nbsp; &nbsp; &nbsp; padding: 12px 25px;</p>
+<p>&nbsp; &nbsp; &nbsp; background: #00bfff;</p>
+<p>&nbsp; &nbsp; &nbsp; color: white;</p>
+<p>&nbsp; &nbsp; &nbsp; text-decoration: none;</p>
+<p>&nbsp; &nbsp; &nbsp; border-radius: 25px;</p>
+<p>&nbsp; &nbsp; &nbsp; font-weight: bold;</p>
+<p>&nbsp; &nbsp; }</p>
+<p>&nbsp;</p>
+<p>&nbsp; &nbsp; a:hover {</p>
+<p>&nbsp; &nbsp; &nbsp; background: #009acd;</p>
+<p>&nbsp; &nbsp; }</p>
+<p>&nbsp; &lt;/style&gt;</p>
+<p>&lt;/head&gt;</p>
+<p>&nbsp;</p>
+<p>&lt;body&gt;</p>
+<p>&nbsp; &lt;div class="box"&gt;</p>
+<p>&nbsp; &nbsp; &lt;h1&gt;🚀 Join Our Discord Server&lt;/h1&gt;</p>
+<p>&nbsp; &nbsp; &lt;p&gt;Connect with our community and get updates!&lt;/p&gt;</p>
+<p>&nbsp; &nbsp; &lt;a href="https://discord.gg/tavrquzVu" target="_blank"&gt;</p>
+<p>&nbsp; &nbsp; &nbsp; Join Discord</p>
+<p>&nbsp; &nbsp; &lt;/a&gt;</p>
+<p>&nbsp; &lt;/div&gt;</p>
+<p>&lt;/body&gt;</p>
+<p>&lt;/html&gt;</p>
+</div></body></html>
